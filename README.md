@@ -1,0 +1,2 @@
+# Sakura_MIFES_color
+サクラエディタでMIFES風のカラー設定
